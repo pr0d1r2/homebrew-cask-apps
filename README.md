@@ -18,3 +18,12 @@ One of the best video players:
 ```
 $ brew cask install pym_player
 ```
+
+### OmniFocus (version 2)
+
+In case for some reason, you want to use old OmniFocus:
+
+
+```
+$ brew cask install omnifocus2
+```
